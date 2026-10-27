@@ -1,6 +1,6 @@
 # AgencyDesk
 
-AgencyDesk is a B2B client project delivery and approval management system for one small web/software agency. This repository is being built in phases. Phases 1-6 currently provide the React/Vite client, Express API, SQLite schema/migrations/seed, server-side sessions, CSRF/Origin protection, client/project management, milestone tracking, versioned deliverable review, comments, change requests, and activity history. Dashboard analytics and final hardening/polish remain future phases.
+AgencyDesk is a B2B client project delivery and approval management system for one small web/software agency. This provide the React/Vite client, Express API, SQLite schema/migrations/seed, server-side sessions, CSRF/Origin protection, client/project management, milestone tracking, versioned deliverable review, comments, change requests, and activity history. Dashboard analytics and final hardening/polish remain future phases.
 
 ## Requirements
 
